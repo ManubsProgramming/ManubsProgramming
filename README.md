@@ -1,9 +1,6 @@
-## Olá! eu sou a Manuela Fernandes
-
-- 🔭 hoje eu trabalho em desenvolvimento mobile android,web,sistemas.
-- 🌱 estudando desenvolvimento ios.
-- 😄 pronomes: ela/dela
-
+## 👩🏽‍💻 Estudante de Engenharia de Software | Backend Developer
+🐍 Python • Django • Java • Spring Boot
+🚀 APIs REST e desenvolvimento de sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
